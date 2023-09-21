@@ -16,6 +16,4 @@ This place is like our treasure chest, where we keep all the important stuff for
 
 🧩 **Issues**: Gain insights into the challenges we faced and the innovative solutions we devised in the 'issues' section.
 
-📄 **License**: Review our project's open-source license (e.g., MIT License).
-
 This repository is exclusively for IEEE ZSB members, where we unite our skills, knowledge, and passion for robotics.
