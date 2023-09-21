@@ -5,10 +5,14 @@ This document provides a comprehensive list of electronic components used in our
 For: Example
 ## Microcontroller Kit:
 Component name: ESP32S
+
 Estimated Price: 300 L.E
+
 Componenet Link: https://ram-e-shop.com/product/kit-esp32-esp32s/
 
 ## Motors and Wheels:
 Component name: N2O Motor with Wheel
+
 Estimated Price: 150 L.E
+
 Componenet Link: https://makerselectronics.com/product/miniq-motor-wheel-set-motor-wheel-6mm-bracket-for-n20-gear-motor/
