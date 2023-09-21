@@ -1,6 +1,6 @@
 # 🐭🤖 Micromouse Competition Assets 🏁🔍
 
-## This place is like our treasure chest, where we keep all the important stuff for our Micromouse Competitions. 
+This place is like our treasure chest, where we keep all the important stuff for our Micromouse Competitions. 
 
 📋 Here's what's inside:
 ---------------------
