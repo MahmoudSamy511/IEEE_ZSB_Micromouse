@@ -18,4 +18,4 @@
 
 📄 **License**: Review our project's open-source license (e.g., MIT License).
 
-This repository is exclusively for IEEE ZSB members, where we unite our skills, knowledge, and passion for robotics. Together, we navigate the maze of innovation and learning.
+This repository is exclusively for IEEE ZSB members, where we unite our skills, knowledge, and passion for robotics.
