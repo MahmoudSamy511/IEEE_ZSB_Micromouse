@@ -6,13 +6,13 @@ Welcome to our Micromouse Competition team! If you need to get in touch with any
 
 ### [Team Member 1]
 
-- **Name:** [Full Name]
-- **Role:** [e.g., Team Leader, Software Engineer, Hardware Specialist]
-- **Email:** [Email Address]
-- **Phone Number:** [Phone Number]
-- **GitHub:** [GitHub Username]
-- **LinkedIn:** [LinkedIn Profile (Optional)]
-- **Additional Contact (e.g., Slack):** [Contact Information]
+- **Name:** Mahmoud Samy Almohamadi khedr
+- **Role:** Hardware Specialist
+- **Email:** mahmoudsamyzx11@gmail.com
+- **Phone Number:** +201120997716
+- **GitHub:** [Mahmoud Samy](https://github.com/MahmoudSamy511)
+- **LinkedIn:** [Mahmoud Samy](https://www.linkedin.com/in/mahmoud-samy-519986125)
+- **Additional Contact [Facebook]:** [Mahmoud Samy](https://www.facebook.com/7oda.samy.72/)
 
 ### [Team Member 2]
 
